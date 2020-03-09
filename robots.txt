@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oxooraeye.aabed.me/sitemap.xml
